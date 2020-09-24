@@ -1,5 +1,5 @@
 <h1 align="center">
-   ⚡ MEUS ESTUDOS 🚀
+   👨🏻‍💻 MEUS ESTUDOS 🏆
 </h1>
 
 ## Objetivo:
