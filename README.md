@@ -6,7 +6,7 @@
 - Rotina de estudos em busca da minha carreira na área de Segurança da Informação.
 
 - Contatos: <br>
-<a href="https://www.instagram.com/fabio.macdo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram jully" height="20" width="20" /></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/f%C3%A1bio-mac%C3%AAdo-350928180//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Jullyana" height="20" width="20" /></a> 
+<a href="https://www.instagram.com/fabio.macdo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram jully" height="20" width="20" /></a> <a href="https://www.linkedin.com/in/fabio-macdo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Jullyana" height="20" width="20" /></a> 
 
 - Email:  **fmacedo0408@gmail.com** <br>
 
