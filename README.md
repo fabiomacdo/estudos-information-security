@@ -22,7 +22,7 @@
 - [x] Repetições (while)
 - [x] Tuplas
 - [x] Listas
-- [ ] Dicionários
+- [X] Dicionários
 - [ ] Funções
 - [ ] Modularização
 - [ ] Tratamento de Erros
