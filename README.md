@@ -23,7 +23,7 @@
 - [x] Tuplas
 - [x] Listas
 - [X] Dicionários
-- [ ] Funções
+- [X] Funções
 - [ ] Modularização
 - [ ] Tratamento de Erros
 
