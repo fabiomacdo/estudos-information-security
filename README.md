@@ -24,8 +24,8 @@
 - [x] Listas
 - [X] Dicionários
 - [X] Funções
-- [ ] Modularização
-- [ ] Tratamento de Erros
+- [X] Modularização
+- [X] Tratamento de Erros
 
 <p  align="center">
 Fábio Macêdo
